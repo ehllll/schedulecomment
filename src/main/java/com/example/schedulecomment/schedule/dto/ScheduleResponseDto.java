@@ -1,7 +1,8 @@
 package com.example.schedulecomment.schedule.dto;
 
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotNull;
+
+import java.time.LocalDateTime;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -9,13 +10,12 @@ import lombok.RequiredArgsConstructor;
 @Getter
 @RequiredArgsConstructor
 @AllArgsConstructor
-public class ScheduleRequestDto {
-
-	@NotBlank
+public class ScheduleResponseDto {
+	private Long id;
+	private Long scheduleId;
 	private String title;
-
-	@NotBlank
 	private String content;
+	private LocalDateTime createdAt;
 
-	private Long writerId;
+
 }
