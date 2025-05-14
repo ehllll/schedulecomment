@@ -16,7 +16,7 @@
 
 ## 📂 API 명세서 
 ![image](https://github.com/ehllll/schedulecomment/blob/master/schedule%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A6%E1%84%89%E1%85%A5.png)
-![image](https://github.com/ehllll/schedulecomment/blob/master/comment%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A6%E1%84%89%E1%85%A5.png)
+![image](https://github.com/ehllll/schedulecomment/blob/master/comment%20API.png)
 
 
 
